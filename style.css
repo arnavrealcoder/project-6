@@ -1,0 +1,28 @@
+body {
+    background-image: url('Deer.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+/* Styling for the heading */
+.intro-text {
+    color: pink;
+    font-size: 1.9em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 3px 2px #00000033;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.4); /* Adds contrast */
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 80%;
+    box-shadow: 20px 10px 30px;
+    color: pink;
+}
+
+
